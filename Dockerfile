@@ -1,3 +1,3 @@
-FROM dockersample/static-site
+FROM oracle
 ENV AUTHOR="euew"
 
