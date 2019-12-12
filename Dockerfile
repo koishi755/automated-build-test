@@ -1,3 +1,3 @@
-FROM commit-test
+FROM koishi755/test
 ENV AUTHOR="euew"
 
